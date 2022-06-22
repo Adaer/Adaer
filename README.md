@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Adaer) -->
 
-<div style="font-size: 100px;color: #09f">
-Adaer
-</div>
+:raised_hand:

@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![](https://github-readme-stats.vercel.app/api?username=Adaer)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Adaer) -->
+
+<div style="font-size: 100px;color: #09f">
+Adaer
+</div>

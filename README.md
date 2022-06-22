@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi 👋 I'm Adaer!
 ![image](https://github.githubassets.com/images/mona-whisper.gif)
 
  ✨ _special_ ✨

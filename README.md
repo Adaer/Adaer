@@ -2,12 +2,10 @@
 
 
 <div align="center">
-✨ 
-![image](https://github.githubassets.com/images/mona-whisper.gif)  
-✨
+ ![image](https://github.githubassets.com/images/mona-whisper.gif)
 </div>
-
  
+ ✨ ✨
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

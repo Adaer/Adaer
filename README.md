@@ -1,4 +1,4 @@
-# Hi 👋 I'm Adaer!
+## Hi 👋 I'm Adaer!
 
 
 <div align="center">
@@ -7,9 +7,7 @@
 ✨
 </div>
 
-  
- ![github stats]([https://github-readme-stats.vercel.app/api?username=opxop&show_icons=true](https://github-readme-stats.vercel.app/api?username=Adaer&show_icons=true)
-
+ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -20,9 +18,12 @@
 - ⚡ Fun fact: ...
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Adaer) -->
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/opakholis)](https://twitter.com/opakholis)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/opakholis)](https://github.com/adaer)
  <hr /> 
+
+ ## Some of my Github Stats
 ![Piraces github stats](https://github-readme-stats.vercel.app/api?username=Adaer&show_icons=true)
+
 
 :raised_hand:
  :sushi:	🍥 :fish_cake:	🍙 :rice_ball:

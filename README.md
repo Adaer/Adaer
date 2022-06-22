@@ -1,9 +1,12 @@
 ## Hi 👋 I'm Adaer!
 
 
-<div align="center">
- ![image](https://github.githubassets.com/images/mona-whisper.gif)
+<div align="center>
+<a href="https://github.com/adaer">
+ <img alt="Robot logo" src="https://github.githubassets.com/images/mona-whisper.gif" align="center" height="150" />
+</a>
 </div>
+
  
  ✨ ✨
 - 🔭 I’m currently working on ...
